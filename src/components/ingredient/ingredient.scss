@@ -1,0 +1,17 @@
+.ind {
+  margin-top: 5px;
+  margin-left: 3px;
+}
+
+.item {
+  flex-direction: row;
+  display: flex;
+  margin-top: 10px;
+  align-items: center;
+  gap: 10px;
+}
+
+.detail {
+  flex-direction: row;
+  gap: 5px;
+}

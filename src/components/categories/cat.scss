@@ -1,0 +1,27 @@
+.cat {
+  display: flex;
+  gap: 10px;
+}
+
+.item {
+  align-items: center;
+  gap: 10px;
+  margin-top: 15px;
+  margin-right: 6px;
+}
+
+.it {
+  padding: 10px;
+  height: 63px;
+  width: 63px;
+  padding-bottom: 0px;
+  border-radius: 999px;
+}
+.img {
+  border-radius: 999px;
+  object-fit: cover;
+}
+.p {
+  color: grey;
+  text-transform: capitalize;
+}
